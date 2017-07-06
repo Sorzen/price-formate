@@ -1,0 +1,16 @@
+{
+  "name": "price-transfer",
+  "version": "1.0.0",
+  "description": "将数字转换以价格的形式进行展示",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --require intelli-espower-loader"
+  },
+  "dependencies": {
+    "intelli-espower-loader": "^1.0.1",
+    "mocha": "^3.4.2",
+    "power-assert": "^1.4.4"
+  },
+  "author": "Sorzen",
+  "license": "ISC"
+}
