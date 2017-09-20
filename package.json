@@ -1,6 +1,6 @@
 {
   "name": "price-transfer",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "将数字转换以价格的形式进行展示",
   "main": "lib/index.js",
   "scripts": {
