@@ -1,4 +1,5 @@
-
+lib/
+.idea
 # Logs
 logs
 *.log
